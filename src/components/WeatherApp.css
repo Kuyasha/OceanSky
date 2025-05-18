@@ -1,6 +1,6 @@
 .container{
     width:607px;
-    height:720px;
+    height:700px;
     margin:auto;
     margin-top:75px;
     display:flex;
@@ -98,4 +98,63 @@
 }
 .icon{
     margin-top: 10px;
+}
+
+
+
+/* To Make Responsive  */
+@media screen and (max-width: 768px) {
+.container{
+    width:400px;
+    height: 600px;
+}
+/* TOP BAR */
+.top-bar input{
+    font-size: 16px;
+    width:200px;
+    height:50px;
+}
+.search-icon{
+    width:50px;
+    height:50px;
+}
+.search-icon img{
+    width:13px;
+    height:13px;
+}
+
+/* 2)WEATHER IMAGE, TEMP, LOCATION STYLING */
+.weather-image img{
+    height:150px;
+    width:150px;
+    padding-top: 10px;
+}
+.weather-temp{
+    font-size: 60px;
+}
+.weather-location{
+    font-size: 38px;
+}
+
+
+/* 3) DATA CONTAINER */
+.data-container{
+    gap:50px;
+    width: 400px;
+}
+.element img{
+    height:30px;
+    width:30px;
+}
+.data{
+    font-size: 20px;
+}
+.text{
+    font-size:16px;
+    font-weight:100;
+}
+.icon{
+    margin-top: 10px;
+}
+
 }
