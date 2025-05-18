@@ -53,6 +53,8 @@ const WeatherApp = () =>{
         else{
             setWicon(assets.clear_icon);
         }
+
+        element[0].value = "";
     }
 
 
