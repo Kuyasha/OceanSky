@@ -1,7 +1,7 @@
 
 # Weather App - OceanSky
 
-A fully responsive weather application built with *React.js* and the *OpenWeatherMap API*. Users can enter a city name to get real-time weather information including temperature, humidity, wind speed, and dynamic weather conditions.
+A fully responsive weather application built with * React.js * and the * OpenWeatherMap API *. Users can enter a city name to get real-time weather information including temperature, humidity, wind speed, and dynamic weather conditions.
 
 
 
@@ -65,7 +65,7 @@ npm run dev
 ![App Screenshots](screenshots/weather_image_1.png)
 
 
-1)Viewing from Mobile device
+2)Viewing from Mobile device
 
 ![App Screenshots](screenshots/weather_app_img_2.png)
 
