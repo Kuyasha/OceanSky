@@ -47,19 +47,25 @@ A fully responsive weather application built with *React.js* and the *OpenWeathe
    cd weather-app
 
 2. Install dependencies:
+   
 npm install
 
-3. Create a .env file in the root directory and add your API key:
-REACT_APP_WEATHER_API_KEY=your_openweathermap_api_key
+
 4. Start the development server:
 
 npm run dev
 
-Screenshots
+
+
+
+## Screenshots
 
 (Optional: Add screenshots or GIFs of the UI here)
 
-License
+
+
+
+## License
 This project is open-source and available under the MIT License.
 
 ---
