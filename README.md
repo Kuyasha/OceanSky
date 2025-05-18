@@ -61,7 +61,7 @@ npm run dev
 ## Screenshots
 
 (Optional: Add screenshots or GIFs of the UI here)
-![App Screenshots](screenshots
+![App Screenshots](screenshots/weather_image_1.png)
 
 
 ## License
