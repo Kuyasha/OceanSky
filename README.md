@@ -61,8 +61,7 @@ npm run dev
 ## Screenshots
 
 (Optional: Add screenshots or GIFs of the UI here)
-
-
+![App Screenshots](screenshots
 
 
 ## License
