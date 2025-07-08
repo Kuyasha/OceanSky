@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import './WeatherApp.css';
 import {assets} from '../assets/assets';
 
-//Main Function
+//Main Function Commit
 const WeatherApp = () =>{
     let api_key = "d81f7a5d9169044d3b6218e34fa7a33a";
     const [wicon, setWicon] = useState(assets.clear_icon);
